@@ -2,7 +2,7 @@ schema_version: "vyges-upstream-v1"
 upstream:
   type: "standalone"
   repo: https://github.com/openhwgroup/cv32e40p
-  commit: e1891cd1f76082420c9035d82be55a7c7d6a80db
+  commit: 6033d2b1be3295ec774d17ac4cf226faacfdeb08
   extracted_at: "2026-04-01T06:13:38Z"
 import:
   rtl:
@@ -13,5 +13,4 @@ import:
 license:
   spdx: Solderpad-0.51
   file: LICENSE
-
 metadata_locked: true
