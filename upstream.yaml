@@ -2,7 +2,7 @@ schema_version: "vyges-upstream-v1"
 upstream:
   type: "standalone"
   repo: https://github.com/openhwgroup/cv32e40p
-  commit: 97086e9565f8145522ad6d62852123c0e5537529
+  commit: b353438ff469c030c89f6804f3b24a2852880e8b
   extracted_at: "2026-04-01T06:13:38Z"
 import:
   rtl:
